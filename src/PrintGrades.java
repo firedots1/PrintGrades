@@ -6,10 +6,10 @@ public class PrintGrades {
         // The user, the number, exam scores or list of exam scores which is already provided. //
         // Based on the lettering system that is illustrated, the letter begins with A, B, C, D and F. //
         // The purpose of this program is to prompt user for the input first; asking for number to enter (e.g 40).
-        // Once the data is extracted and input into the program, this allows the matching to begin //
-        // Matching begins with the String values between lowest of 60 and highest of 100 //
-        // This matching compares the letter with a number to see what does it fall under. //
-        // Once this number gets recognized and computed, the end result will be printed out. //
+
+      
+    
+ 
 
         // This program first begins with the simple of importing Scanner
         Scanner Input = new Scanner(System.in);
